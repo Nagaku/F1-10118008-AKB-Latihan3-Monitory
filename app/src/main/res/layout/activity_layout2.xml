@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/white_three">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white_three"
+        android:layout_marginTop="@dimen/dp26"
+        android:layout_marginHorizontal="@dimen/dp26"
+        android:layout_weight="1">
+
+
+            <TextView
+                android:id="@+id/layout2_text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/layout2_text1"
+                android:textSize="@dimen/dp24"
+                android:layout_marginTop="@dimen/dp26"
+                android:textColor="@color/black"></TextView>
+
+
+            <TextView
+                android:id="@+id/layout2_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/layout2_text2"
+                android:textSize="@dimen/dp18"
+                android:layout_marginTop="@dimen/dp20"
+                android:textColor="@color/black"></TextView>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_button_nofill"
+                android:layout_marginTop="@dimen/dp26"
+                android:text="A1B2C3"
+                android:textAlignment="center"/>
+
+
+
+            <TextView
+                android:id="@+id/layout2_text3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="@string/layout2_text3"
+                android:textSize="@dimen/dp12"
+                android:layout_marginTop="@dimen/dp20"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="@color/black"></TextView>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/round_button_yellow"
+            android:text="@string/layout1_text2"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/dp26"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/layout1_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/layout2_text4"
+                android:textAlignment="center"
+                android:textSize="@dimen/dp18"
+                android:textColor="@color/black_87"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_main_shadow"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/layout2_text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/layout2_text5"
+            android:textAlignment="center"
+            android:textSize="@dimen/dp18"
+            android:layout_marginBottom="@dimen/dp24"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="30dp"
+            android:background="@drawable/round_button_blue"
+            android:text="@string/layout1_text2"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/layout2_text6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/layout2_text6"
+                android:textAlignment="center"
+                android:textSize="@dimen/dp18"
+                android:textColor="@color/white_three"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

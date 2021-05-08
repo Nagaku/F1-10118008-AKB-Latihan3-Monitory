@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Monitory</string>
+    <string name="layout1_text1">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="layout1_text2">Mulai</string>
+    <string name="layout2_text1">Kode Keluarga</string>
+    <string name="layout2_text2">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="layout2_text3">Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="layout2_text4">Masuk</string>
+    <string name="layout2_text5">Belum punya kode keluarga?</string>
+    <string name="layout2_text6">Beli Kode Keluarga Disini</string>
+    <string name="layout3_text1">Nama Panggilan Kamu</string>
+    <string name="layout3_text2">Contoh : Budi</string>
+    <string name="layout3_text3">Umur Kamu</string>
+    <string name="layout3_text4">Contoh : 12</string>
+    <string name="layout3_text5">Selanjutnya</string>
+    <string name="layout4_text1">Oke</string>
+</resources>
