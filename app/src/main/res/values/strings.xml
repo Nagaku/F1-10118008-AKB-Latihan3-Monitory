@@ -13,5 +13,6 @@
     <string name="layout3_text3">Umur Kamu</string>
     <string name="layout3_text4">Contoh : 12</string>
     <string name="layout3_text5">Selanjutnya</string>
-    <string name="layout4_text1">Oke</string>
+    <string name="layout4_text1">Beres! Sekarang kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)</string>
+    <string name="layout4_text2">Oke</string>
 </resources>

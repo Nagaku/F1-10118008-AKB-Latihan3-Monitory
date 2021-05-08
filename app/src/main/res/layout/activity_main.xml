@@ -28,7 +28,6 @@
                 android:layout_height="match_parent"
                 android:text="@string/layout1_text1"
                 android:textSize="@dimen/dp24"
-                android:textStyle="bold"
                 android:textColor="@color/black"
                 android:gravity="center"></TextView>
 
@@ -46,7 +45,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="5"
-        android:gravity="center">
+        android:gravity="center"
+        android:onClick="layout1">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="50dp"

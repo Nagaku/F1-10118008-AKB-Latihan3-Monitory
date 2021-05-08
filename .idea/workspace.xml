@@ -6,13 +6,27 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa49be35-8fb4-4bcf-baba-c6cf9d7d9309" name="Default Changelist" comment="" />
+    <list default="true" id="fa49be35-8fb4-4bcf-baba-c6cf9d7d9309" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_layout4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Monitory.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Monitory.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/monitory/FinalActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/monitory/FinalActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/monitory/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/monitory/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_layout2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_layout2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_layout3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_layout3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_XL_API_29]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -35,8 +49,8 @@
       <list>
         <option value="Class" />
         <option value="valueResourceFile" />
-        <option value="layoutResourceFile" />
         <option value="resourceFile" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -62,7 +76,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Monitory.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -131,17 +145,29 @@
       <option name="presentableId" value="Default" />
       <updated>1620447052730</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <created>1620453961230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620453961230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog" timestamp="1620448626466">
+    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog" timestamp="1620456741955">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1620448626466" />
-    <state x="202" y="93" key="AndroidCreateResourceFileDialog" timestamp="1620453870157">
+    <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1620456741955" />
+    <state x="202" y="93" key="AndroidCreateResourceFileDialog" timestamp="1620453979932">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="202" y="93" key="AndroidCreateResourceFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453870157" />
+    <state x="202" y="93" key="AndroidCreateResourceFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453979932" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1620447237740">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -150,14 +176,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="510" y="135" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453630054" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1620453964431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1620453964431" />
     <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620453870706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453870706" />
-    <state x="570" y="339" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620453561870">
+    <state x="570" y="339" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620453906482">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="570" y="339" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453561870" />
+    <state x="570" y="339" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1620453906482" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1620452742101">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
