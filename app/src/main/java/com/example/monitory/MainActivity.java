@@ -10,6 +10,13 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/*
+    Tanggal 8 Mei 2021
+    Michael Nagaku Milenn Salim
+    IF-1 / 10118008
+
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     public static final String NAMA = "com.example.monitory.nama";
